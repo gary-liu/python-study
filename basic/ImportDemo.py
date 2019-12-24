@@ -7,6 +7,7 @@
 # 将某个模块中的全部函数导入，格式为： from somemodule import *
 
 import sys
+
 print('========================Python import mode==================')
 print("command:")
 for i in sys.argv:
